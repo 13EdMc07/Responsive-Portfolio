@@ -227,3 +227,16 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
+
+
+@media all and (max-width: 980px)
+  }
+}
+
+@media all and (max-width: 768px)
+  }
+}
+
+@media all and (max-width: 640px) 
+  }
+}
